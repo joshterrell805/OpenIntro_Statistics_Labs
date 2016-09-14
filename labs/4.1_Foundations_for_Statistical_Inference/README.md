@@ -1,4 +1,4 @@
-# Lab 4: Foundations for Inference
+# Lab 4.1: Foundations for Inference (Sampling Distributions)
 
 ## Exercise 1
 > Describe this population distribution.
