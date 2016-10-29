@@ -1,5 +1,7 @@
 # Lab 4.1: Foundations for Inference (Sampling Distributions)
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1476570675
+
 ## Exercise 1
 > Describe this population distribution.
 

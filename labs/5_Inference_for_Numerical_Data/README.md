@@ -1,5 +1,7 @@
 # Lab 5: Inference for Numerical Data
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1473100566
+
 ## Exercise 1
 > What are the cases in this data set? How many cases are there in our sample?
 

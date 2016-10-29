@@ -1,5 +1,7 @@
 # Lab 4.2: Foundations for Inference (Confidence Intervals)
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1476570675
+
 ## Exercise 1
 > Describe the distribution of your sample. What would you say is the “typical” size within your sample? Also state precisely what you interpreted “typical” to mean.
 

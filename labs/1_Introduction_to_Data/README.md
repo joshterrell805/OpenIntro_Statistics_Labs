@@ -1,5 +1,7 @@
 # Lab 1: Introduction to Data
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1471406524
+
 ## Exercise 1
 How many cases are there in this data set? How many variables? For each variable, identify its data
 type (e.g. categorical, discrete).

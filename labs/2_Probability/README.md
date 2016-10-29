@@ -1,5 +1,7 @@
 # Lab 2: Probability
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1472532759
+
 ## Goals
 > (1) think about the effects of independent and dependent events, (2) learn how to simulate shooting
 streaks in R, and (3) to compare a simulation to actual data in order to determine if the hot hand

@@ -1,5 +1,7 @@
 # Lab 3: Distributions
 
+My corresponding reading notes for this lab are at http://joshterrell.com/blog/posts/1474911833
+
 ## Goals
 Study the normal distribution, as the normal distribution "opens the door to many powerful statistical methods."
 
